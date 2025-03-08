@@ -1,0 +1,25 @@
+.sectionContador {
+  max-width: 1300px;
+  margin: 2rem auto;
+  text-align: center;
+
+  .divContador {
+    .contador {
+      margin: 10px auto;
+      background-color: #f8f8f8;
+      max-width: 700px;
+      padding: 20px;
+      border-radius: 12px;
+      color: black;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    .texto {
+      margin-top: 10px;
+      font-size: 1.1rem;
+      text-align: justify;
+      font-weight: bold;
+    }
+  }
+}

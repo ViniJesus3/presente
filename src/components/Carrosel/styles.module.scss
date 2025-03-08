@@ -1,0 +1,14 @@
+.sectionCarrosel {
+  max-width: 1300px;
+  margin: 0 auto;
+  text-align: center;
+
+  .images {
+    img {
+      width: 400px;
+      max-height: 500px; /* Ajuste conforme necessário */
+      object-fit: cover; /* Mantém a proporção sem distorcer */
+      border-radius: 12px;
+    }
+  }
+}
