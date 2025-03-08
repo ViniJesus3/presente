@@ -52,7 +52,7 @@ export const Contador: React.FC = () => {
           você me faz bem. Obrigado por me apoiar, por estar sempre comigo, por
           me fazer rir e por acreditar em mim até quando eu mesmo duvido. Você é
           incrível, e eu tenho muita sorte de te chamar de minha. Te amo mais do
-          que consigo explicar, e prometo sempre te fazer feliz!
+          que tudo, e prometo sempre te fazer feliz!
         </p>
       </div>
     </section>
